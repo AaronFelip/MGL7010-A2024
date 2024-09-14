@@ -49,7 +49,7 @@ Pour que **Visual Studio Code** fonctionne correctement avec Java, vous devez in
 
 ### Étape 3 : Installation de Git
 
-**Git** est un système de gestion de version distribué qui permet de suivre les modifications apportées au code source et de collaborer efficacement sur des projets. Nous allons installer Git et expliquer comment il peut être utilisé pour gérer des projets en ligne de commande et sur des plateformes telles que GitLab.
+**Git** est un système de gestion de version distribué qui permet de suivre les modifications apportées au code source et de collaborer efficacement sur des projets.
 
 - **Utilisateurs Windows** :  
   Téléchargez et installez Git depuis [https://git-scm.com/download/win](https://git-scm.com/download/win). Ce processus installera également **Git Bash**, un terminal qui permet d'utiliser les commandes Git sous Windows, et qui sera essentiel pour ce cours.
@@ -69,11 +69,6 @@ Pour que **Visual Studio Code** fonctionne correctement avec Java, vous devez in
    ```bash
    sudo apt-get install git
    ```
-
-Une fois installé, vous pouvez commencer à utiliser Git pour gérer vos projets, synchroniser votre code avec GitLab, et collaborer avec vos collègues.
-
-
-Voici une version optimisée du texte, ainsi que les commandes à utiliser dans la section des solutions annexes :
 
 ---
 
