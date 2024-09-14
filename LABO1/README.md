@@ -115,6 +115,7 @@ $ git config --list
 
 1. **Créer un dépôt distant sur GitLab associé à l'UQAM**  
    *Lors de la création, ne pas ajouter automatiquement de fichier `README.md`.*
+   [Voir la vidéo du premier dépôt](images/first-repo.webm)
 
 2. **Créer un dépôt local vide sur votre machine**
    ```bash
