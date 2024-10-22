@@ -20,7 +20,9 @@ Ce dépot contient les corrections des labos du groupe 10, n'hésitez pas à le 
 - Semaine 15: à venir
 
 ## Me rejoindre:
-Si vous avez des questions sur la matière vu en classe ou dans les labos, je vous recommande de poser vos questions dans le Teams du cours. Si vous avez besoin d'une aide personnalisé vous pouvez me rejoindre par [courriel](mailto:osorio_arancibia.aaron@courrier.uqam.ca?subject=Aide%20labo%20IMGL7010)  .
+Si vous avez des questions sur la matière vu en classe ou dans les labos, je vous recommande de poser vos questions 
+dans le Teams du cours ou à votre enseignant. Si vous avez besoin d'une aide personnalisé vous pouvez me rejoindre 
+par [courriel](mailto:osorio_arancibia.aaron@courrier.uqam.ca?subject=Aide%20labo%20IMGL7010)  .
 
 ## Liens utiles:
 - [IDE IntelliJ - gratuit pour les étudiants](https://www.jetbrains.com/pycharm/)
