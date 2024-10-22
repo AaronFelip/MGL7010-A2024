@@ -1,6 +1,7 @@
 # Voici un exemple de .gitignore qui vous servira peu importe le IDE utilisé
 # Il est généré automatiquement lorsque vous créez un projet Maven avec IntelliJ.
 
+testlabo/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -8,10 +9,7 @@ target/
 
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/
 *.iws
 *.iml
 *.ipr

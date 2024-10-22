@@ -5,9 +5,9 @@ Ce dépot contient les corrections des labos du groupe 10, n'hésitez pas à le 
 ## Laboratoires:
 - Semaine 1: Pas de labo cette semaine
 - Semaine 2: Pas de labo cette semaine
-- Semaine 3: [Labo1 - GIT + POO intro](./LABO1)
-- Semaine 4: [Labo2 - POO suite + JUnit](./LABO2)
-- Semaine 5: [Labo3 - POO Suite + JUnit](./LABO3)
+- Semaine 3: [Labo1 - GIT + POO intro](./EXO1)
+- Semaine 4: [Labo2 - POO suite + JUnit](./EXO2)
+- Semaine 5: [Labo3 - POO Suite + JUnit](./EXO3)
 - Semaine 6: à venir
 - Semaine 7: à venir
 - Semaine 8: à venir

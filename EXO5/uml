@@ -1,0 +1,26 @@
++---------------------+
+|       Livre         |
+|---------------------|
+| - titre: String     |
+| - auteur: String    |
+| - nombreDePages: int|
+|---------------------|
+| + getTitre()        |
+| + afficherDetails() |
++---------------------+
+
++---------------------+
+|    Bibliotheque     |
+|---------------------|
+| - livres: ArrayList |
+|---------------------|
+| + ajouterLivre()    |
+| + rechercherLivre() |
+| + afficherLivres()  |
++---------------------+
+
++-----------------+
+|      Main       |
+|-----------------|
+| + main()        |
++-----------------+
