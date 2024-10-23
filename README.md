@@ -8,8 +8,8 @@ Ce dépot contient les corrections des labos du groupe 10, n'hésitez pas à le 
 - Semaine 3: POO et GIT intro (EXO1, EXO4, EXO6)
 - Semaine 4: POO et GIT suite (EXO2, EXO5, EXO7)
 - Semaine 5: JUnit (EXO3, EXO8)
-- Semaine 6: GIT en équipe + Gitlab workflow
-- Semaine 7: Retour sur les EXO + EXO9
+- Semaine 6: GIT en équipe (workflow)
+- Semaine 7: Retour sur les EXO et JUnit + EXO9 et présentation du TP1
 - Semaine 8: UML EXO1, EXO8, EXO9 + aide au TP1
 - Semaine 9: à venir
 - Semaine 10: à venir
